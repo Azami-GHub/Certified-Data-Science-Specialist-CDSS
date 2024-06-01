@@ -39,14 +39,14 @@ To get started with the materials in this repository, follow these steps:
 Install Dependencies
 ```pip install -r requirements.txt```
 
-Usage
+## Usage
 After cloning the repository and installing the dependencies, you can start exploring the materials:
 
 1. Navigate to the directory of a specific day or topic.
 2. Open the Jupyter Notebook files to start your learning journey.
 ```jupyter notebook "Exploratory Data Analysis.ipynb"```
 
-Project Structure
+## Project Structure
 The repository is organized as follows:
 ```
 Certified-Data-Science-Specialist-CDSS/
@@ -63,7 +63,7 @@ Certified-Data-Science-Specialist-CDSS/
 └── requirements.txt                     # List of dependencies
 ```
 
-Contributing
+## Contributing
 I welcome contributions to enhance these materials. To contribute, please follow these steps:
 
 1. Fork the repository.
@@ -73,10 +73,10 @@ I welcome contributions to enhance these materials. To contribute, please follow
 5. Submit a pull request.
 Please ensure your code follows our coding standards and includes relevant tests.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contact
+## Contact
 For questions or feedback, please reach out to:
 
 Email: azamishamsudin.contact@gmail.com
