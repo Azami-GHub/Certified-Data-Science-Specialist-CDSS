@@ -34,15 +34,21 @@ To get started with the materials in this repository, follow these steps:
 - Install [Jupyter Notebook](https://jupyter.org/).
 
 ### Clone the Repository
-```bash
-git clone https://github.com/Azami-GHub/Certified-Data-Science-Specialist-CDSS.git
-cd Certified-Data-Science-Specialist-CDSS
+```git clone https://github.com/Azami-GHub/Certified-Data-Science-Specialist-CDSS.gitcd Certified-Data-Science-Specialist-CDSS```
 
-pip install -r requirements.txt
+Install Dependencies
+```pip install -r requirements.txt```
 
-jupyter notebook "Exploratory Data Analysis.ipynb"
+Usage
+After cloning the repository and installing the dependencies, you can start exploring the materials:
 
+1. Navigate to the directory of a specific day or topic.
+2. Open the Jupyter Notebook files to start your learning journey.
+```jupyter notebook "Exploratory Data Analysis.ipynb"```
 
+Project Structure
+The repository is organized as follows:
+```
 Certified-Data-Science-Specialist-CDSS/
 │
 ├── Data/                                # Data files used in exercises
@@ -55,5 +61,24 @@ Certified-Data-Science-Specialist-CDSS/
 ├── Exploratory Data Analysis.ipynb      # Notebook on exploratory data analysis
 ├── Visualizations using Python Modules.ipynb # Notebook on visualizations using Python
 └── requirements.txt                     # List of dependencies
+```
 
+Contributing
+I welcome contributions to enhance these materials. To contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch: git checkout -b feature/your-feature-name.
+3. Make your changes and commit them: git commit -m 'Add some feature'.
+4. Push to the branch: git push origin feature/your-feature-name.
+5. Submit a pull request.
+Please ensure your code follows our coding standards and includes relevant tests.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+Contact
+For questions or feedback, please reach out to:
+
+Email: azamishamsudin.contact@gmail.com
+Thank you for using Certified Data Science Specialist (CDSS)!
 
