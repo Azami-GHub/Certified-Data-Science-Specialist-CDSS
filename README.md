@@ -1,6 +1,6 @@
 # Certified Data Science Specialist (CDSS)
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+Welcome to the Certified Data Science Specialist (CDSS) repository! This repository contains materials, code, and resources for the CDSS certification program.
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@
 
 ## Introduction
 
-Welcome to the **Certified Data Science Specialist (CDSS)** repository! This repository contains certified training materials by iTrainAsia, covering various aspects of data science including Big Data Analytics, Exploratory Data Analysis (EDA), Data Storytelling, and Machine Learning.
+The Certified Data Science Specialist (CDSS) program is designed to equip individuals with the skills and knowledge necessary to excel in the field of data science. This repository contains all the necessary materials and resources for the certification.
 
 ## Features
 
@@ -34,7 +34,26 @@ To get started with the materials in this repository, follow these steps:
 - Install [Jupyter Notebook](https://jupyter.org/).
 
 ### Clone the Repository
-
 ```bash
 git clone https://github.com/Azami-GHub/Certified-Data-Science-Specialist-CDSS.git
 cd Certified-Data-Science-Specialist-CDSS
+
+pip install -r requirements.txt
+
+jupyter notebook "Exploratory Data Analysis.ipynb"
+
+
+Certified-Data-Science-Specialist-CDSS/
+│
+├── Data/                                # Data files used in exercises
+├── Day 1/                               # Materials and exercises for Day 1
+├── Day 2/                               # Materials and exercises for Day 2
+├── Day 3/                               # Materials and exercises for Day 3
+├── Day 4/                               # Materials and exercises for Day 4
+├── Day 5/                               # Materials and exercises for Day 5
+├── Data Visualization (1).pdf           # PDF resource on data visualization
+├── Exploratory Data Analysis.ipynb      # Notebook on exploratory data analysis
+├── Visualizations using Python Modules.ipynb # Notebook on visualizations using Python
+└── requirements.txt                     # List of dependencies
+
+
